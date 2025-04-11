@@ -3,3 +3,34 @@
     margin:0;
     box-sizing: border-box;
 }
+.navbar{
+    width:100%;
+    height: 8%;
+    background-color: #444B52;
+}
+
+.top{
+    width: 80%;
+    height: 40%;
+    background-color: #C4F1F7;
+    display: flex;
+}
+.mid{
+    width: 80%;
+    height: 22%;
+    background-color: #444B52;
+}
+
+.bottom{
+    width:80%;
+    height: 30%;
+    background-color: #C4F1F7;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    align-items: center;
+}
